@@ -44,7 +44,7 @@ In this challenge I decided to take a mobile-first approach.
 I learned how to style the border of specific table rows.
 I wrote and styled an HTML table which is an element that I wasn't really used to work with.
 
-The <img> of the recipe gave me the oportunity to think outside the box in order to achive different layouts for the same element based on different viewport sizes.
+The <img> of the recipe gave me the oportunity to think outside the box in order to achieve different layouts for the same element based on different viewport sizes.
 The <img> in smaller viewports take the full width of the recipe container while in bigger viewports it respects the padding of the recipe container.
 In order to do this I also took a mobile-first approach. First I applied the following rule to the recipe container (the <article class="recipe">):
 
