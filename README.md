@@ -40,7 +40,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-In this challenge I decide to take a mobile-first approach.
+In this challenge I decided to take a mobile-first approach.
 I learned how to style the border of specific table rows.
 I wrote and styled an HTML table which is an element that I wasn't really used to work with.
 
